@@ -1,3 +1,0 @@
-./100-write.py: line 1: mport: command not found
-./100-write.py: line 2: syntax error near unexpected token `"and that piece of art is useful - Dora Korpar, 2015-10-19\n"'
-./100-write.py: line 2: `sys.stderr.write("and that piece of art is useful - Dora Korpar, 2015-10-19\n")'
