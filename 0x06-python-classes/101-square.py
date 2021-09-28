@@ -1,5 +1,5 @@
-#!/usr/bin/python3
-"""Node  class definintion """
+#!/usr/bin
+"""node  class definintion """
 
 
 class Square:
